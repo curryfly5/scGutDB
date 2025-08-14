@@ -1,0 +1,34 @@
+[[pages]]
+path = "app/home.py",
+name = "Home",
+icon = "📄"
+
+[[pages]]
+path = "./app/marker.py",
+name = "Marker query",
+icon = "🔎"
+
+[[pages]]
+path = "./app/explore.py",
+name = "Explore data",
+icon = "📊"
+
+[[pages]]
+path = "./app/eQTL.py",
+name = "eQTLs query",
+icon = "🧬"
+
+[[pages]]
+path = "./app/auto.py",
+name = "Auto annotation",
+icon = "🤖"
+
+[[pages]]
+path = "./app/batch.py",
+name = "Batch correct",
+icon = "⚙️"
+
+[[pages]]
+path = "./app/scGWAS.py",
+name = "Traits enrichment",
+icon = "📈"
