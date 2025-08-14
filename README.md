@@ -25,7 +25,7 @@
 | Human   | Small & Large Intestine | 1.2 M | 24 k | From gutcellatlas.org |
 | Pig     | Small & Large Intestine  | 1.2 M | 22 k | IPGCA |
 
-*Visit the [live portal](http://alphaindex.zju.edu.cn:8501/) for the most recent numbers.*
+*Visit the [live portal](https://alphaindex.zju.edu.cn/scgut/) for the most recent numbers.*
 
 ---
 
