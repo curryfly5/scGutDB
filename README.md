@@ -34,9 +34,14 @@
    Navigate to [http://alphaindex.zju.edu.cn:8501/](http://alphaindex.zju.edu.cn:8501/) in any modern browser. No installation required.
 
 2. **Select page**  
+   If you want to query DEGs or marker of specific cell type, select **Marker query** page
    If you want to query Gene in IPGCA, select **Explore IPGCA** page, and choose the dataset **Human** or **Pig**
+   If you want to query whether specific variant is an eQTL or ct-ieQTL(cell type interaction eQTL) or decon-eQTL(deconvolutinal cell type eQTL), select **eQTLs query** page
+   If you want to download the auto annotation pkl file based on celltypist(https://www.celltypist.org/) , select **Auto annotation** page
+   If you want to query the code of GWAS enrichment with cell type, select **Traits enrichment** page
    If you want to download the resource, select **Data download** page, and download all the resource you want.
-   
+   <img width="334" height="445" alt="image" src="https://github.com/user-attachments/assets/2673328a-c41a-4c0f-9dd2-ba4b9edef58c" />
+
 4. **Visualize & query**  
    - Use the **Gene Search** box to highlight expression of any gene.  
   <img width="747" height="488" alt="image" src="https://github.com/user-attachments/assets/ed3167bf-81aa-4f1c-9760-6449bc351a87" />
