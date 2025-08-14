@@ -74,10 +74,10 @@ We welcome bug reports, feature requests and pull requests!
 ---
 
 ## 📄 License
-MIT © 2024 Zhejiang University - Pathology & Omics Lab.
+MIT © 2025 Zhejiang University - PanLab.
 
 ---
 
 ## 🔗 Links
 - **Live portal**: https://alphaindex.zju.edu.cn/scgut/
-- **Panlab**: https://alphaindex.zju.edu.cn/Panlab/
+- **PanLab**: https://alphaindex.zju.edu.cn/Panlab/
