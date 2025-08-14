@@ -31,7 +31,7 @@
 
 ## 🛠️ Quick Start
 1. **Open the portal**  
-   Navigate to [http://alphaindex.zju.edu.cn:8501/](http://alphaindex.zju.edu.cn:8501/) in any modern browser. No installation required.
+   Navigate to [https://alphaindex.zju.edu.cn/scgut/](http://alphaindex.zju.edu.cn:8501/) in any modern browser. No installation required.
 
 2. **Select page**  
    - If you want to query DEGs or marker of specific cell type, select **Marker query** page
